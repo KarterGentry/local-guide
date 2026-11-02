@@ -1,0 +1,30 @@
+* {
+    background-color: lightyellow;
+}
+
+.main-header {
+    text-align: center;
+    font-size: 36px;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: darkblue;
+    color: white;
+}
+
+.nav li {
+    font-size: 20px;
+    margin: 15px;
+}
+
+.small-header {
+    text-align: center;
+    margin: 20px;
+}
+
+img {
+    max-width: 20%;
+}
